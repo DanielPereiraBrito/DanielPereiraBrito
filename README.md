@@ -1,8 +1,8 @@
 ### Olá!! meu nome é Daniel Pereira de Brito
 
-##### Atualmente faço faculdade de Engenharia de Software.
+##### Atualmente faço faculdade de Engenharia de Software e trabalho como programador FullStack utilzando PHP puro, ExtJs, e varios bancos de dados(MariaDB, MySQL, SqlServer, PostGreSQL, Oracle).
 ##### Meu foco é o desenvolvimento BackEnd, mas gosto de me aventurar no FrontEnd.
-##### Atualmente estou focado em aprender JAVA e suas bibliotecas, mas ja tenho uma noção de PHP, Python JavaScript, HTML5, CSS.
+##### Atualmente estou focado em aprender Laravel, como ja tenho bastante noção de PHP puro. Tambem to esdutando React Native e JavaScript que é o que uso bastante no meu dia a dia.
 ##### Ja tenho bastante praticidade ao mexer com banco de dados, o que mais gosto de utilizar é o MYSQL, mas me dou bem com todos.
 ##### Pronomes: Ele/Dele.
 
@@ -19,6 +19,8 @@
   <img align="center"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+  <img align="center"  height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+          
           
  </div>
   
