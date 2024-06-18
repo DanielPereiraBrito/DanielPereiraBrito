@@ -1,7 +1,7 @@
 ### Olá!! meu nome é Daniel Pereira de Brito
 
-##### Atualmente faço faculdade de Engenharia de Software e trabalho como programador FullStack utilzando PHP puro, ExtJs, e varios bancos de dados(MariaDB, MySQL, SqlServer, PostGreSQL, Oracle).
-##### Meu foco atualmente é o desenvolvimento FrontEnd, sendo que ja tenho um bom conhecimento com o BackEnd.
+##### Trabalho como programador FullStack utilzando PHP(Laravel/Lumen), Javascript(ExtJs), e varios bancos de dados(MariaDB, MySQL, SqlServer, PostGreSQL, Oracle).
+
 ##### Pronomes: Ele/Dele.
 
 <div align="center">
